@@ -182,6 +182,10 @@ The results and discussion section highlighted the strengths of the model, as we
 
 In conclusion, this project has successfully demonstrated that CNNs are a powerful tool for medical image analysis, capable of aiding in the diagnosis and classification of brain tumors. The high accuracy and balanced performance metrics validate the model's potential for real-world application in clinical settings. Future work could focus on further refining the model, increasing the dataset size, and implementing additional techniques to enhance generalization and performance on unseen data. The promising results of this project contribute to the growing field of AI-driven medical diagnostics, paving the way for more advanced and reliable healthcare solutions.
 
+Hashim Abbas: CSC-21F-041
+Adeel Ahmed: CSC-21F-009
+Ahsan Naeem: CSC-21F-014
+
 
 
 

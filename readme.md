@@ -186,7 +186,7 @@ Hashim Abbas: CSC-21F-041
 Adeel Ahmed: CSC-21F-009
 Ahsan Naeem: CSC-21F-014
 
-###### Superviser
+###### this Research study has Supervised By 
 
 Sir Anwar Sathio
 
